@@ -1,0 +1,16 @@
+# Explainability Tools
+
+## Google Vertex AI
+- [Explainable AI Overview](https://cloud.google.com/vertex-ai/docs/explainable-ai/overview)
+- [Documentation](https://cloud.google.com/vertex-ai/docs)
+- [Getting Started](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
+
+## IBM Explainability 360
+- [Toolkit](https://aix360.res.ibm.com/)
+- [GitHub Repository](https://github.com/Trusted-AI/AIX360)
+- [Documentation](https://aix360.readthedocs.io/)
+
+## OpenAI
+- [API Documentation](https://platform.openai.com/docs)
+- [Safety Best Practices](https://platform.openai.com/docs/guides/safety-best-practices)
+- [Usage Policies](https://openai.com/policies/usage-policies)
